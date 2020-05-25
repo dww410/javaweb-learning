@@ -18,6 +18,9 @@ mall学习教程，架构、业务、技术要点全方位解析。mall项目（
 - [mall架构及功能概览](foreword/mall_foreword_01.md)
 - [mall学习所需知识点（推荐资料）](foreword/mall_foreword_02.md)
 
+## 常见问题
+- [IDEA使用常见问题](question/mall_question_01.md)
+
 ## 架构篇
 > 手把手教你搭建一个mall在使用的项目骨架
 
