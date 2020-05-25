@@ -4,6 +4,7 @@
 
 * 常用问题
   * [IDEA使用常见问题](question/mall_question_01.md)
+  * [参考网址](question/mall_website_02.md)
 
 * 架构篇
   * [mall整合SpringBoot+MyBatis搭建基本骨架](architect/mall_arch_01.md)
