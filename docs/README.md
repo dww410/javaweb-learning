@@ -20,6 +20,7 @@ mall学习教程，架构、业务、技术要点全方位解析。mall项目（
 
 ## 常见问题
 - [IDEA使用常见问题](question/mall_question_01.md)
+- [参考网址](question/mall_website_02.md)
 
 ## 架构篇
 > 手把手教你搭建一个mall在使用的项目骨架
