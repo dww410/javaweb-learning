@@ -76,20 +76,32 @@ MongoDB可视化工具，平时用来查看和管理MongoDB中的数据。
 
 用来制作Gif的工具，mall项目功能演示的Gif就是用这个做的。
 
+## Core Shell
+mac环境，一款强大的安全终端模拟软件，可以用来连接和管理远程Linux服务器。
+
+## Drawio
+一款非常好用的开源的绘图软件，流程图，UML图等，可以部署为服务器版本。
+
+## Axure RP
+Axure RP是一款专业的快速原型设计工具。
+
 ## 官网地址
 
-- IntelliJ IDEA：https://www.jetbrains.com/idea/download
-- X-shell：http://www.netsarang.com/download/software.html
-- Postman：https://www.postman.com/
-- PowerDesigner：http://powerdesigner.de/
-- Navicat：http://www.formysql.com/xiazai.html
-- RedisDesktop：https://redisdesktop.com/download
-- Robomongo：https://robomongo.org/download
-- Typora：https://typora.io/
-- ProcessOn：https://processon.com/
-- MindMaster：http://www.edrawsoft.cn/mindmaster
-- Snipaste：https://www.snipaste.com/
-- ScreenToGif：https://www.screentogif.com
+- IntelliJ IDEA: https://www.jetbrains.com/idea/download
+- X-shell: http://www.netsarang.com/download/software.html
+- Postman: https://www.postman.com/
+- PowerDesigner: http://powerdesigner.de/
+- Navicat: http://www.formysql.com/xiazai.html
+- RedisDesktop: https://redisdesktop.com/download
+- Robomongo: https://robomongo.org/download
+- Typora: https://typora.io/
+- ProcessOn: https://processon.com/
+- MindMaster: http://www.edrawsoft.cn/mindmaster
+- Snipaste: https://www.snipaste.com/
+- ScreenToGif: https://www.screentogif.com
+- Core Shell: https://coreshell.app/
+- Drawio: https://www.diagrams.net/integrations.html
+- Axure RP: https://www.axure.com/
 
 ## 公众号
 
